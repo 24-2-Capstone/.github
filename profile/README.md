@@ -23,7 +23,13 @@
 - Fontend : ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)  ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 - Backend : ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  ![](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 - AI : ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-  
+
+&nbsp;
+
+### 🙌 협업 Tool
+![](https://img.shields.io/badge/Figma-F24E1E?style=plastic-square&logo=Figma&logoColor=white) ![](https://img.shields.io/badge/Discord-5865F2?style=plastic-square&logo=Discord&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white) ![](https://img.shields.io/badge/Slack-4A154B?style=plastic-square&logo=Slack&logoColor=white) ![](https://img.shields.io/badge/GoogleDocs-4285F4?style=plastic-square&logo=googledocs&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=plastic-square&logo=notion&logoColor=white) 
+&nbsp;
+
 &nbsp;
 
 ### 🙆 팀 소개
