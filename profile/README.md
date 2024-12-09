@@ -4,7 +4,7 @@
 
 ##
 
-### 프로젝트 소개
+### 📢 프로젝트 소개
 **중장년층을 위한 AI 마트 안내원, AIMI**
 - **에이미의 상품 추천** : 
    - 텍스트로 추천 : STT를 이용하여 사용자의 음성을 통해 입력 받은 상품을 추천
@@ -18,7 +18,15 @@
 
 &nbsp;
 
-### 팀 소개
+### 🛠️ Tech Stack
+
+- Fontend : ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)  ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
+- Backend : ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  ![](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+- AI : ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+  
+&nbsp;
+
+### 🙆 팀 소개
 
 세종대학교 컴퓨터공학과 2024 Capstone 디자인  
 
