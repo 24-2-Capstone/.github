@@ -3,7 +3,7 @@
 ![대표사진](https://github.com/user-attachments/assets/4f210872-7557-4b4b-8da1-a7b466c149b2)
 
 ### ❗️ Links
-**README** [세부기능 보러가기](https://github.com/24-2-Capstone/.github) <br>
+## **README** [세부기능 보러가기](https://github.com/24-2-Capstone/.github) <br> 
 **Backend** [Click Here!](https://github.com/24-2-Capstone/Backend) <br>
 **Frontend** [Click Here!](https://github.com/24-2-Capstone/Frontend) <br>
 **AI** [Click Here!](https://github.com/24-2-Capstone/AI)
